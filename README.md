@@ -4,4 +4,4 @@ Hsksos
 Keleem
 Keoeoelw
 Kwoeo
-Ooooo
+O
